@@ -1,4 +1,5 @@
 Web Based Plagiarism Detector
+(Major Project)
 
 Project Overview
 
@@ -33,8 +34,3 @@ Algorithms Used
 - TF-IDF
 - Cosine Similarity
 
-Team Members
-
-1. Pragati Bhosale
-2. Riya Pednekar
-3. Diksha Pokle
